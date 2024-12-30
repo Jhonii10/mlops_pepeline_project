@@ -15,22 +15,26 @@ python 3.0 o superior
 
 ### crea un entorno virtual
 
-```py -m venv env
+```bash
+   python -m venv env
 ```
 
 ### activa el entorno virtual
 
-``` .\env\Scripts\activate
+```bash
+   .\env\Scripts\activate
 ```
 
 ### instala las dependencias
 
-```pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
 ```
 
 ### inicia el pepeline
 
-```pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
 ```
 
 ## Instrucciones para producion en aws
