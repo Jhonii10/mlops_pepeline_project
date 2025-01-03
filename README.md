@@ -34,7 +34,7 @@ python 3.0 o superior
 ### inicia el pepeline
 
 ```bash
-   pip install -r requirements.txt
+   py run_pipeline.py
 ```
 
 ## Instrucciones para producion en aws

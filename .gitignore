@@ -108,3 +108,5 @@ dmypy.json
 
 # macOS files
 .DS_Store
+
+.codegpt
